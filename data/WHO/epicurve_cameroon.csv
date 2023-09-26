@@ -1,0 +1,18 @@
+country,iso3,who_region,who_region_long,reference_date,date_type,cases
+Cameroon,CMR,AFRO,African Region,2022-03-05,Onset,1
+Cameroon,CMR,AFRO,African Region,2022-04-30,Onset,1
+Cameroon,CMR,AFRO,African Region,2022-06-05,Onset,1
+Cameroon,CMR,AFRO,African Region,2022-06-10,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-06-17,Onset,1
+Cameroon,CMR,AFRO,African Region,2022-06-28,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-07-01,Onset,1
+Cameroon,CMR,AFRO,African Region,2022-07-02,Onset,1
+Cameroon,CMR,AFRO,African Region,2022-09-07,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-10-10,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-10-13,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-10-15,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-10-22,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-10-25,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-10-31,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-11-11,Reported,1
+Cameroon,CMR,AFRO,African Region,2022-12-03,Onset,1

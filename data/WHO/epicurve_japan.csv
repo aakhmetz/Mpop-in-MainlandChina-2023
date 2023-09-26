@@ -1,0 +1,19 @@
+country,iso3,who_region,who_region_long,reference_date,date_type,cases
+Japan,JPN,WPRO,Western Pacific Region,2022-07-15,Onset,1
+Japan,JPN,WPRO,Western Pacific Region,2022-07-27,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2022-08-05,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2022-08-09,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2022-09-20,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2022-09-29,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2022-10-04,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2022-12-18,Onset,1
+Japan,JPN,WPRO,Western Pacific Region,2023-01-16,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2023-01-23,Diagnosis,2
+Japan,JPN,WPRO,Western Pacific Region,2023-01-26,Diagnosis,3
+Japan,JPN,WPRO,Western Pacific Region,2023-01-26,Reported,1
+Japan,JPN,WPRO,Western Pacific Region,2023-01-27,Diagnosis,2
+Japan,JPN,WPRO,Western Pacific Region,2023-01-30,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2023-02-03,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2023-02-10,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2023-02-14,Diagnosis,1
+Japan,JPN,WPRO,Western Pacific Region,2023-02-15,Diagnosis,1

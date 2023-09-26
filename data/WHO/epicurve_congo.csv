@@ -1,0 +1,4 @@
+country,iso3,who_region,who_region_long,reference_date,date_type,cases
+Congo,COG,AFRO,African Region,2022-01-24,Onset,1
+Congo,COG,AFRO,African Region,2022-03-08,Onset,2
+Congo,COG,AFRO,African Region,2022-04-03,Onset,1

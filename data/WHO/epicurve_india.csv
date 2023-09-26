@@ -1,0 +1,19 @@
+country,iso3,who_region,who_region_long,reference_date,date_type,cases
+India,IND,SEARO,South-East Asia Region,2022-07-05,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-07-08,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-07-13,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-07-23,Reported,1
+India,IND,SEARO,South-East Asia Region,2022-08-01,Diagnosis,2
+India,IND,SEARO,South-East Asia Region,2022-08-02,Diagnosis,2
+India,IND,SEARO,South-East Asia Region,2022-08-04,Diagnosis,1
+India,IND,SEARO,South-East Asia Region,2022-08-12,Diagnosis,1
+India,IND,SEARO,South-East Asia Region,2022-09-02,Diagnosis,1
+India,IND,SEARO,South-East Asia Region,2022-09-09,Diagnosis,1
+India,IND,SEARO,South-East Asia Region,2022-09-09,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-09-11,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-09-15,Onset,3
+India,IND,SEARO,South-East Asia Region,2022-10-09,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-10-22,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-10-24,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-11-17,Onset,1
+India,IND,SEARO,South-East Asia Region,2022-11-22,Onset,1
