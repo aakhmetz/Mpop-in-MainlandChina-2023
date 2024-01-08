@@ -13,7 +13,8 @@ Despite reporting very few mpox cases early in 2023, Mainland China observed a s
 ## III. Output
 
 Estimates of the effective reproduction number during the initial phases of the outbreaks
-<img width="1118" alt="Screenshot 2023-09-26 at 4 34 28 PM" src="https://github.com/aakhmetz/Mpox-in-MainlandChina-2023/assets/2173206/c5d42651-8c5c-47de-9107-16b37b595379">
+<img width="1159" alt="Screenshot 2024-01-08 at 8 56 12 PM" src="https://github.com/aakhmetz/Mpox-in-MainlandChina-2023/assets/2173206/8729579f-d34d-49e1-9419-a06f8ff9ef7a">
+
 
 ## Additional details
 * The folder **data** contains all data used for our analysis.
