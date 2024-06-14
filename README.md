@@ -6,9 +6,9 @@ Code and data for Akhmetzhanov AR, Wu PH 2023 "Transmission potential of mpox in
 Despite reporting very few mpox cases early in 2023, Mainland China observed a surge with over 500 cases during the summer. Amid ambiguous prevention strategies and stigma surrounding mpox, the epidemic escalated silently. This study aims to quantify the epidemic scale and assess the transmission dynamics by estimating the effective reproduction number (R_e) during its early phase. Publicly available data were aggregated to retrieve daily mpox incidences in Mainland China, and the R_e value was. estimated using an exponential growth model. The mean R_e value was found to be 1.76 (95% credible interval: 1.51-2.06), suggesting a case doubling time of approximately two weeks. This estimate was compared with R_e values from 16 other national outbreaks in 2022 selected based on a cumulative incidence exceeding 700 symptomatic cases by the end of that year. The R_e estimates for these outbreaks ranged from 1.17 for Portugal to 2.88 for Colombia. The pooled mean was 1.66 (1.40-1.92), aligning closely with the R_e for Mainland China. These findings underscore the need for immediate and effective control measures, including targeted vaccination campaigns, to mitigate further spread and impact.
 
 ## II. Code scripts
-* [A. Main analysis for Mpox in China.ipynb](https://nbviewer.org/github/aakhmetz/Mpox-in-MainlandChina-2023/blob/main/scripts/Andrei/A.%20Main%20analysis%20for%20Mpox%20in%20China.ipynb)
-* [B1. Sensitivity analysis - varied time windows for China.ipynb](https://nbviewer.org/github/aakhmetz/Mpox-in-MainlandChina-2023/blob/main/scripts/Andrei/B1.%20Sensitivity%20analysis%20-%20varied%20time%20windows%20for%20China.ipynb)
-* [B2. Sensitivity analysis - latest update.ipynb](https://nbviewer.org/github/aakhmetz/Mpox-in-MainlandChina-2023/blob/main/scripts/Andrei/B2.%20Sensitivity%20analysis%20-%20latest%20update.ipynb)
+* [A. Main analysis for Mpox in China.ipynb](https://nbviewer.org/github/aakhmetz/Mpox-in-MainlandChina-2023/blob/main/scripts/A.%20Main%20analysis%20for%20Mpox%20in%20China.ipynb)
+* [B1. Sensitivity analysis - varied time windows for China.ipynb](https://nbviewer.org/github/aakhmetz/Mpox-in-MainlandChina-2023/blob/main/scripts/B1.%20Sensitivity%20analysis%20-%20varied%20time%20windows%20for%20China.ipynb)
+* [B2. Sensitivity analysis - latest update.ipynb](https://nbviewer.org/github/aakhmetz/Mpox-in-MainlandChina-2023/blob/main/scripts/B2.%20Sensitivity%20analysis%20-%20latest%20update.ipynb)
 
 ## III. Output
 
